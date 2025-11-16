@@ -24,7 +24,7 @@ ___
 
 ## 🧠 Orquestração das DAGs no Airflow:
 
-`extract_task` → `load_task` → `dbt_staging_task` → `dbt_seed_task` → `dbt_core_task` → `dbt_test_task` → `dbt_marts_task`
+![dag](docs/dag.png)
 
 - `extract_task`: Extrai os dados do **SQL Server**.  
 - `load_task`: Carrega os dados brutos na camada **raw** **(PostgreSQL)**.  
