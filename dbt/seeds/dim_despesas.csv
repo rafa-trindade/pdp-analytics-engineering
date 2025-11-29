@@ -1,0 +1,505 @@
+data,categoria,tipo,descricao,valor,data_key
+2030-01-31,Fixa,Administrativa,Aluguel,4800,20300131
+2030-01-31,Fixa,Administrativa,Energia,3258,20300131
+2030-01-31,Fixa,Administrativa,Água,512,20300131
+2030-01-31,Fixa,Administrativa,Contabilidade,400,20300131
+2030-01-31,Fixa,Administrativa,Internet,220,20300131
+2030-01-31,Variável,Administrativa,Impostos,1580,20300131
+2030-01-31,Fixa,Folha de Pagamento,Salário,4267,20300131
+2030-01-31,Fixa,Folha de Pagamento,FGTS,376,20300131
+2030-01-31,Fixa,Folha de Pagamento,INSS,432,20300131
+2030-01-31,Variável,Operacional,Padaria,914,20300131
+2030-01-31,Variável,Operacional,Mat. Linpeza,209,20300131
+2030-01-31,Variável,Operacional,Manutenção,434,20300131
+2030-01-31,Variável,Folha de Pagamento,Diária,261,20300131
+2030-01-31,Variável,CMV,Mercadoria,484,20300131
+2030-02-28,Fixa,Administrativa,Aluguel,4800,20300228
+2030-02-28,Fixa,Administrativa,Energia,3364,20300228
+2030-02-28,Fixa,Administrativa,Água,540,20300228
+2030-02-28,Fixa,Administrativa,Contabilidade,400,20300228
+2030-02-28,Fixa,Administrativa,Internet,220,20300228
+2030-02-28,Variável,Administrativa,Impostos,1636,20300228
+2030-02-28,Fixa,Folha de Pagamento,Salário,4017,20300228
+2030-02-28,Fixa,Folha de Pagamento,FGTS,368,20300228
+2030-02-28,Fixa,Folha de Pagamento,INSS,364,20300228
+2030-02-28,Variável,Operacional,Padaria,941,20300228
+2030-02-28,Variável,Operacional,Mat. Linpeza,262,20300228
+2030-02-28,Variável,Operacional,Manutenção,432,20300228
+2030-02-28,Variável,Folha de Pagamento,Diária,446,20300228
+2030-02-28,Variável,CMV,Mercadoria,484,20300228
+2030-03-31,Fixa,Administrativa,Aluguel,4800,20300331
+2030-03-31,Fixa,Administrativa,Energia,3404,20300331
+2030-03-31,Fixa,Administrativa,Água,543,20300331
+2030-03-31,Fixa,Administrativa,Contabilidade,400,20300331
+2030-03-31,Fixa,Administrativa,Internet,220,20300331
+2030-03-31,Variável,Administrativa,Impostos,1782,20300331
+2030-03-31,Fixa,Folha de Pagamento,Salário,3352,20300331
+2030-03-31,Fixa,Folha de Pagamento,FGTS,448,20300331
+2030-03-31,Fixa,Folha de Pagamento,INSS,344,20300331
+2030-03-31,Variável,Operacional,Padaria,935,20300331
+2030-03-31,Variável,Operacional,Mat. Linpeza,240,20300331
+2030-03-31,Variável,Operacional,Manutenção,494,20300331
+2030-03-31,Variável,Folha de Pagamento,Diária,470,20300331
+2030-03-31,Variável,CMV,Mercadoria,495,20300331
+2030-04-30,Fixa,Administrativa,Aluguel,4800,20300430
+2030-04-30,Fixa,Administrativa,Energia,3474,20300430
+2030-04-30,Fixa,Administrativa,Água,544,20300430
+2030-04-30,Fixa,Administrativa,Contabilidade,400,20300430
+2030-04-30,Fixa,Administrativa,Internet,220,20300430
+2030-04-30,Variável,Administrativa,Impostos,1809,20300430
+2030-04-30,Fixa,Folha de Pagamento,Salário,3663,20300430
+2030-04-30,Fixa,Folha de Pagamento,FGTS,384,20300430
+2030-04-30,Fixa,Folha de Pagamento,INSS,413,20300430
+2030-04-30,Variável,Operacional,Padaria,936,20300430
+2030-04-30,Variável,Operacional,Mat. Linpeza,263,20300430
+2030-04-30,Variável,Operacional,Manutenção,292,20300430
+2030-04-30,Variável,Folha de Pagamento,Diária,340,20300430
+2030-04-30,Variável,CMV,Mercadoria,400,20300430
+2030-05-31,Fixa,Administrativa,Aluguel,4800,20300531
+2030-05-31,Fixa,Administrativa,Energia,3363,20300531
+2030-05-31,Fixa,Administrativa,Água,563,20300531
+2030-05-31,Fixa,Administrativa,Contabilidade,400,20300531
+2030-05-31,Fixa,Administrativa,Internet,220,20300531
+2030-05-31,Variável,Administrativa,Impostos,1994,20300531
+2030-05-31,Fixa,Folha de Pagamento,Salário,4267,20300531
+2030-05-31,Fixa,Folha de Pagamento,FGTS,442,20300531
+2030-05-31,Fixa,Folha de Pagamento,INSS,355,20300531
+2030-05-31,Variável,Operacional,Padaria,888,20300531
+2030-05-31,Variável,Operacional,Mat. Linpeza,205,20300531
+2030-05-31,Variável,Operacional,Manutenção,460,20300531
+2030-05-31,Variável,Folha de Pagamento,Diária,348,20300531
+2030-05-31,Variável,CMV,Mercadoria,477,20300531
+2030-06-30,Fixa,Administrativa,Aluguel,4800,20300630
+2030-06-30,Fixa,Administrativa,Energia,3465,20300630
+2030-06-30,Fixa,Administrativa,Água,594,20300630
+2030-06-30,Fixa,Administrativa,Contabilidade,400,20300630
+2030-06-30,Fixa,Administrativa,Internet,220,20300630
+2030-06-30,Variável,Administrativa,Impostos,1957,20300630
+2030-06-30,Fixa,Folha de Pagamento,Salário,3553,20300630
+2030-06-30,Fixa,Folha de Pagamento,FGTS,393,20300630
+2030-06-30,Fixa,Folha de Pagamento,INSS,334,20300630
+2030-06-30,Variável,Operacional,Padaria,812,20300630
+2030-06-30,Variável,Operacional,Mat. Linpeza,219,20300630
+2030-06-30,Variável,Operacional,Manutenção,334,20300630
+2030-06-30,Variável,Folha de Pagamento,Diária,202,20300630
+2030-06-30,Variável,CMV,Mercadoria,305,20300630
+2030-07-31,Fixa,Administrativa,Aluguel,4800,20300731
+2030-07-31,Fixa,Administrativa,Energia,3208,20300731
+2030-07-31,Fixa,Administrativa,Água,532,20300731
+2030-07-31,Fixa,Administrativa,Contabilidade,400,20300731
+2030-07-31,Fixa,Administrativa,Internet,220,20300731
+2030-07-31,Variável,Administrativa,Impostos,1926,20300731
+2030-07-31,Fixa,Folha de Pagamento,Salário,3246,20300731
+2030-07-31,Fixa,Folha de Pagamento,FGTS,377,20300731
+2030-07-31,Fixa,Folha de Pagamento,INSS,389,20300731
+2030-07-31,Variável,Operacional,Padaria,899,20300731
+2030-07-31,Variável,Operacional,Mat. Linpeza,250,20300731
+2030-07-31,Variável,Operacional,Manutenção,410,20300731
+2030-07-31,Variável,Folha de Pagamento,Diária,326,20300731
+2030-07-31,Variável,CMV,Mercadoria,329,20300731
+2030-08-31,Fixa,Administrativa,Aluguel,4800,20300831
+2030-08-31,Fixa,Administrativa,Energia,3294,20300831
+2030-08-31,Fixa,Administrativa,Água,507,20300831
+2030-08-31,Fixa,Administrativa,Contabilidade,400,20300831
+2030-08-31,Fixa,Administrativa,Internet,220,20300831
+2030-08-31,Variável,Administrativa,Impostos,1652,20300831
+2030-08-31,Fixa,Folha de Pagamento,Salário,3432,20300831
+2030-08-31,Fixa,Folha de Pagamento,FGTS,395,20300831
+2030-08-31,Fixa,Folha de Pagamento,INSS,421,20300831
+2030-08-31,Variável,Operacional,Padaria,908,20300831
+2030-08-31,Variável,Operacional,Mat. Linpeza,225,20300831
+2030-08-31,Variável,Operacional,Manutenção,487,20300831
+2030-08-31,Variável,Folha de Pagamento,Diária,302,20300831
+2030-08-31,Variável,CMV,Mercadoria,337,20300831
+2030-09-30,Fixa,Administrativa,Aluguel,4800,20300930
+2030-09-30,Fixa,Administrativa,Energia,3410,20300930
+2030-09-30,Fixa,Administrativa,Água,505,20300930
+2030-09-30,Fixa,Administrativa,Contabilidade,400,20300930
+2030-09-30,Fixa,Administrativa,Internet,220,20300930
+2030-09-30,Variável,Administrativa,Impostos,1885,20300930
+2030-09-30,Fixa,Folha de Pagamento,Salário,3566,20300930
+2030-09-30,Fixa,Folha de Pagamento,FGTS,363,20300930
+2030-09-30,Fixa,Folha de Pagamento,INSS,327,20300930
+2030-09-30,Variável,Operacional,Padaria,805,20300930
+2030-09-30,Variável,Operacional,Mat. Linpeza,256,20300930
+2030-09-30,Variável,Operacional,Manutenção,217,20300930
+2030-09-30,Variável,Folha de Pagamento,Diária,208,20300930
+2030-09-30,Variável,CMV,Mercadoria,472,20300930
+2030-10-31,Fixa,Administrativa,Aluguel,4800,20301031
+2030-10-31,Fixa,Administrativa,Energia,3420,20301031
+2030-10-31,Fixa,Administrativa,Água,569,20301031
+2030-10-31,Fixa,Administrativa,Contabilidade,400,20301031
+2030-10-31,Fixa,Administrativa,Internet,220,20301031
+2030-10-31,Variável,Administrativa,Impostos,1789,20301031
+2030-10-31,Fixa,Folha de Pagamento,Salário,3267,20301031
+2030-10-31,Fixa,Folha de Pagamento,FGTS,397,20301031
+2030-10-31,Fixa,Folha de Pagamento,INSS,431,20301031
+2030-10-31,Variável,Operacional,Padaria,838,20301031
+2030-10-31,Variável,Operacional,Mat. Linpeza,219,20301031
+2030-10-31,Variável,Operacional,Manutenção,426,20301031
+2030-10-31,Variável,Folha de Pagamento,Diária,490,20301031
+2030-10-31,Variável,CMV,Mercadoria,314,20301031
+2030-11-30,Fixa,Administrativa,Aluguel,4800,20301130
+2030-11-30,Fixa,Administrativa,Energia,3219,20301130
+2030-11-30,Fixa,Administrativa,Água,523,20301130
+2030-11-30,Fixa,Administrativa,Contabilidade,400,20301130
+2030-11-30,Fixa,Administrativa,Internet,220,20301130
+2030-11-30,Variável,Administrativa,Impostos,1950,20301130
+2030-11-30,Fixa,Folha de Pagamento,Salário,3221,20301130
+2030-11-30,Fixa,Folha de Pagamento,FGTS,448,20301130
+2030-11-30,Fixa,Folha de Pagamento,INSS,418,20301130
+2030-11-30,Variável,Operacional,Padaria,833,20301130
+2030-11-30,Variável,Operacional,Mat. Linpeza,264,20301130
+2030-11-30,Variável,Operacional,Manutenção,422,20301130
+2030-11-30,Variável,Folha de Pagamento,Diária,296,20301130
+2030-11-30,Variável,CMV,Mercadoria,430,20301130
+2030-12-31,Fixa,Administrativa,Aluguel,4800,20301231
+2030-12-31,Fixa,Administrativa,Energia,3203,20301231
+2030-12-31,Fixa,Administrativa,Água,562,20301231
+2030-12-31,Fixa,Administrativa,Contabilidade,400,20301231
+2030-12-31,Fixa,Administrativa,Internet,220,20301231
+2030-12-31,Variável,Administrativa,Impostos,1881,20301231
+2030-12-31,Fixa,Folha de Pagamento,Salário,3272,20301231
+2030-12-31,Fixa,Folha de Pagamento,FGTS,380,20301231
+2030-12-31,Fixa,Folha de Pagamento,INSS,411,20301231
+2030-12-31,Variável,Operacional,Padaria,894,20301231
+2030-12-31,Variável,Operacional,Mat. Linpeza,280,20301231
+2030-12-31,Variável,Operacional,Manutenção,265,20301231
+2030-12-31,Variável,Folha de Pagamento,Diária,330,20301231
+2030-12-31,Variável,CMV,Mercadoria,417,20301231
+2031-01-31,Fixa,Administrativa,Aluguel,4800,20310131
+2031-01-31,Fixa,Administrativa,Energia,3288,20310131
+2031-01-31,Fixa,Administrativa,Água,534,20310131
+2031-01-31,Fixa,Administrativa,Contabilidade,400,20310131
+2031-01-31,Fixa,Administrativa,Internet,220,20310131
+2031-01-31,Variável,Administrativa,Impostos,1700,20310131
+2031-01-31,Fixa,Folha de Pagamento,Salário,3499,20310131
+2031-01-31,Fixa,Folha de Pagamento,FGTS,386,20310131
+2031-01-31,Fixa,Folha de Pagamento,INSS,388,20310131
+2031-01-31,Variável,Operacional,Padaria,828,20310131
+2031-01-31,Variável,Operacional,Mat. Linpeza,254,20310131
+2031-01-31,Variável,Operacional,Manutenção,250,20310131
+2031-01-31,Variável,Folha de Pagamento,Diária,424,20310131
+2031-01-31,Variável,CMV,Mercadoria,465,20310131
+2031-02-28,Fixa,Administrativa,Aluguel,4800,20310228
+2031-02-28,Fixa,Administrativa,Energia,3470,20310228
+2031-02-28,Fixa,Administrativa,Água,581,20310228
+2031-02-28,Fixa,Administrativa,Contabilidade,400,20310228
+2031-02-28,Fixa,Administrativa,Internet,220,20310228
+2031-02-28,Variável,Administrativa,Impostos,1792,20310228
+2031-02-28,Fixa,Folha de Pagamento,Salário,3223,20310228
+2031-02-28,Fixa,Folha de Pagamento,FGTS,399,20310228
+2031-02-28,Fixa,Folha de Pagamento,INSS,402,20310228
+2031-02-28,Variável,Operacional,Padaria,962,20310228
+2031-02-28,Variável,Operacional,Mat. Linpeza,254,20310228
+2031-02-28,Variável,Operacional,Manutenção,441,20310228
+2031-02-28,Variável,Folha de Pagamento,Diária,354,20310228
+2031-02-28,Variável,CMV,Mercadoria,333,20310228
+2031-03-31,Fixa,Administrativa,Aluguel,4800,20310331
+2031-03-31,Fixa,Administrativa,Energia,3463,20310331
+2031-03-31,Fixa,Administrativa,Água,514,20310331
+2031-03-31,Fixa,Administrativa,Contabilidade,400,20310331
+2031-03-31,Fixa,Administrativa,Internet,220,20310331
+2031-03-31,Variável,Administrativa,Impostos,1530,20310331
+2031-03-31,Fixa,Folha de Pagamento,Salário,3569,20310331
+2031-03-31,Fixa,Folha de Pagamento,FGTS,346,20310331
+2031-03-31,Fixa,Folha de Pagamento,INSS,330,20310331
+2031-03-31,Variável,Operacional,Padaria,901,20310331
+2031-03-31,Variável,Operacional,Mat. Linpeza,284,20310331
+2031-03-31,Variável,Operacional,Manutenção,480,20310331
+2031-03-31,Variável,Folha de Pagamento,Diária,299,20310331
+2031-03-31,Variável,CMV,Mercadoria,322,20310331
+2031-04-30,Fixa,Administrativa,Aluguel,4800,20310430
+2031-04-30,Fixa,Administrativa,Energia,3318,20310430
+2031-04-30,Fixa,Administrativa,Água,511,20310430
+2031-04-30,Fixa,Administrativa,Contabilidade,400,20310430
+2031-04-30,Fixa,Administrativa,Internet,220,20310430
+2031-04-30,Variável,Administrativa,Impostos,1688,20310430
+2031-04-30,Fixa,Folha de Pagamento,Salário,4044,20310430
+2031-04-30,Fixa,Folha de Pagamento,FGTS,327,20310430
+2031-04-30,Fixa,Folha de Pagamento,INSS,333,20310430
+2031-04-30,Variável,Operacional,Padaria,947,20310430
+2031-04-30,Variável,Operacional,Mat. Linpeza,238,20310430
+2031-04-30,Variável,Operacional,Manutenção,354,20310430
+2031-04-30,Variável,Folha de Pagamento,Diária,313,20310430
+2031-04-30,Variável,CMV,Mercadoria,329,20310430
+2031-05-31,Fixa,Administrativa,Aluguel,4800,20310531
+2031-05-31,Fixa,Administrativa,Energia,3484,20310531
+2031-05-31,Fixa,Administrativa,Água,510,20310531
+2031-05-31,Fixa,Administrativa,Contabilidade,400,20310531
+2031-05-31,Fixa,Administrativa,Internet,220,20310531
+2031-05-31,Variável,Administrativa,Impostos,1691,20310531
+2031-05-31,Fixa,Folha de Pagamento,Salário,3824,20310531
+2031-05-31,Fixa,Folha de Pagamento,FGTS,342,20310531
+2031-05-31,Fixa,Folha de Pagamento,INSS,389,20310531
+2031-05-31,Variável,Operacional,Padaria,948,20310531
+2031-05-31,Variável,Operacional,Mat. Linpeza,215,20310531
+2031-05-31,Variável,Operacional,Manutenção,336,20310531
+2031-05-31,Variável,Folha de Pagamento,Diária,395,20310531
+2031-05-31,Variável,CMV,Mercadoria,479,20310531
+2031-06-30,Fixa,Administrativa,Aluguel,4800,20310630
+2031-06-30,Fixa,Administrativa,Energia,3275,20310630
+2031-06-30,Fixa,Administrativa,Água,563,20310630
+2031-06-30,Fixa,Administrativa,Contabilidade,400,20310630
+2031-06-30,Fixa,Administrativa,Internet,220,20310630
+2031-06-30,Variável,Administrativa,Impostos,1760,20310630
+2031-06-30,Fixa,Folha de Pagamento,Salário,3610,20310630
+2031-06-30,Fixa,Folha de Pagamento,FGTS,398,20310630
+2031-06-30,Fixa,Folha de Pagamento,INSS,356,20310630
+2031-06-30,Variável,Operacional,Padaria,859,20310630
+2031-06-30,Variável,Operacional,Mat. Linpeza,251,20310630
+2031-06-30,Variável,Operacional,Manutenção,479,20310630
+2031-06-30,Variável,Folha de Pagamento,Diária,394,20310630
+2031-06-30,Variável,CMV,Mercadoria,358,20310630
+2031-07-31,Fixa,Administrativa,Aluguel,4800,20310731
+2031-07-31,Fixa,Administrativa,Energia,3213,20310731
+2031-07-31,Fixa,Administrativa,Água,501,20310731
+2031-07-31,Fixa,Administrativa,Contabilidade,400,20310731
+2031-07-31,Fixa,Administrativa,Internet,220,20310731
+2031-07-31,Variável,Administrativa,Impostos,1924,20310731
+2031-07-31,Fixa,Folha de Pagamento,Salário,3480,20310731
+2031-07-31,Fixa,Folha de Pagamento,FGTS,340,20310731
+2031-07-31,Fixa,Folha de Pagamento,INSS,401,20310731
+2031-07-31,Variável,Operacional,Padaria,890,20310731
+2031-07-31,Variável,Operacional,Mat. Linpeza,217,20310731
+2031-07-31,Variável,Operacional,Manutenção,331,20310731
+2031-07-31,Variável,Folha de Pagamento,Diária,336,20310731
+2031-07-31,Variável,CMV,Mercadoria,319,20310731
+2031-08-31,Fixa,Administrativa,Aluguel,4800,20310831
+2031-08-31,Fixa,Administrativa,Energia,3272,20310831
+2031-08-31,Fixa,Administrativa,Água,551,20310831
+2031-08-31,Fixa,Administrativa,Contabilidade,400,20310831
+2031-08-31,Fixa,Administrativa,Internet,220,20310831
+2031-08-31,Variável,Administrativa,Impostos,1528,20310831
+2031-08-31,Fixa,Folha de Pagamento,Salário,4021,20310831
+2031-08-31,Fixa,Folha de Pagamento,FGTS,396,20310831
+2031-08-31,Fixa,Folha de Pagamento,INSS,409,20310831
+2031-08-31,Variável,Operacional,Padaria,829,20310831
+2031-08-31,Variável,Operacional,Mat. Linpeza,249,20310831
+2031-08-31,Variável,Operacional,Manutenção,352,20310831
+2031-08-31,Variável,Folha de Pagamento,Diária,440,20310831
+2031-08-31,Variável,CMV,Mercadoria,499,20310831
+2031-09-30,Fixa,Administrativa,Aluguel,4800,20310930
+2031-09-30,Fixa,Administrativa,Energia,3241,20310930
+2031-09-30,Fixa,Administrativa,Água,512,20310930
+2031-09-30,Fixa,Administrativa,Contabilidade,400,20310930
+2031-09-30,Fixa,Administrativa,Internet,220,20310930
+2031-09-30,Variável,Administrativa,Impostos,1756,20310930
+2031-09-30,Fixa,Folha de Pagamento,Salário,4417,20310930
+2031-09-30,Fixa,Folha de Pagamento,FGTS,427,20310930
+2031-09-30,Fixa,Folha de Pagamento,INSS,347,20310930
+2031-09-30,Variável,Operacional,Padaria,958,20310930
+2031-09-30,Variável,Operacional,Mat. Linpeza,275,20310930
+2031-09-30,Variável,Operacional,Manutenção,344,20310930
+2031-09-30,Variável,Folha de Pagamento,Diária,429,20310930
+2031-09-30,Variável,CMV,Mercadoria,342,20310930
+2031-10-31,Fixa,Administrativa,Aluguel,4800,20311031
+2031-10-31,Fixa,Administrativa,Energia,3273,20311031
+2031-10-31,Fixa,Administrativa,Água,574,20311031
+2031-10-31,Fixa,Administrativa,Contabilidade,400,20311031
+2031-10-31,Fixa,Administrativa,Internet,220,20311031
+2031-10-31,Variável,Administrativa,Impostos,1957,20311031
+2031-10-31,Fixa,Folha de Pagamento,Salário,3279,20311031
+2031-10-31,Fixa,Folha de Pagamento,FGTS,339,20311031
+2031-10-31,Fixa,Folha de Pagamento,INSS,443,20311031
+2031-10-31,Variável,Operacional,Padaria,996,20311031
+2031-10-31,Variável,Operacional,Mat. Linpeza,257,20311031
+2031-10-31,Variável,Operacional,Manutenção,347,20311031
+2031-10-31,Variável,Folha de Pagamento,Diária,303,20311031
+2031-10-31,Variável,CMV,Mercadoria,436,20311031
+2031-11-30,Fixa,Administrativa,Aluguel,4800,20311130
+2031-11-30,Fixa,Administrativa,Energia,3370,20311130
+2031-11-30,Fixa,Administrativa,Água,534,20311130
+2031-11-30,Fixa,Administrativa,Contabilidade,400,20311130
+2031-11-30,Fixa,Administrativa,Internet,220,20311130
+2031-11-30,Variável,Administrativa,Impostos,1783,20311130
+2031-11-30,Fixa,Folha de Pagamento,Salário,3261,20311130
+2031-11-30,Fixa,Folha de Pagamento,FGTS,411,20311130
+2031-11-30,Fixa,Folha de Pagamento,INSS,415,20311130
+2031-11-30,Variável,Operacional,Padaria,954,20311130
+2031-11-30,Variável,Operacional,Mat. Linpeza,274,20311130
+2031-11-30,Variável,Operacional,Manutenção,230,20311130
+2031-11-30,Variável,Folha de Pagamento,Diária,462,20311130
+2031-11-30,Variável,CMV,Mercadoria,430,20311130
+2031-12-31,Fixa,Administrativa,Aluguel,4800,20311231
+2031-12-31,Fixa,Administrativa,Energia,3462,20311231
+2031-12-31,Fixa,Administrativa,Água,510,20311231
+2031-12-31,Fixa,Administrativa,Contabilidade,400,20311231
+2031-12-31,Fixa,Administrativa,Internet,220,20311231
+2031-12-31,Variável,Administrativa,Impostos,1878,20311231
+2031-12-31,Fixa,Folha de Pagamento,Salário,4213,20311231
+2031-12-31,Fixa,Folha de Pagamento,FGTS,383,20311231
+2031-12-31,Fixa,Folha de Pagamento,INSS,429,20311231
+2031-12-31,Variável,Operacional,Padaria,803,20311231
+2031-12-31,Variável,Operacional,Mat. Linpeza,228,20311231
+2031-12-31,Variável,Operacional,Manutenção,485,20311231
+2031-12-31,Variável,Folha de Pagamento,Diária,456,20311231
+2031-12-31,Variável,CMV,Mercadoria,364,20311231
+2032-01-31,Fixa,Administrativa,Aluguel,4800,20320131
+2032-01-31,Fixa,Administrativa,Energia,3254,20320131
+2032-01-31,Fixa,Administrativa,Água,506,20320131
+2032-01-31,Fixa,Administrativa,Contabilidade,400,20320131
+2032-01-31,Fixa,Administrativa,Internet,220,20320131
+2032-01-31,Variável,Administrativa,Impostos,1872,20320131
+2032-01-31,Fixa,Folha de Pagamento,Salário,4057,20320131
+2032-01-31,Fixa,Folha de Pagamento,FGTS,392,20320131
+2032-01-31,Fixa,Folha de Pagamento,INSS,414,20320131
+2032-01-31,Variável,Operacional,Padaria,879,20320131
+2032-01-31,Variável,Operacional,Mat. Linpeza,271,20320131
+2032-01-31,Variável,Operacional,Manutenção,461,20320131
+2032-01-31,Variável,Folha de Pagamento,Diária,304,20320131
+2032-01-31,Variável,CMV,Mercadoria,358,20320131
+2032-02-29,Fixa,Administrativa,Aluguel,4800,20320229
+2032-02-29,Fixa,Administrativa,Energia,3432,20320229
+2032-02-29,Fixa,Administrativa,Água,573,20320229
+2032-02-29,Fixa,Administrativa,Contabilidade,400,20320229
+2032-02-29,Fixa,Administrativa,Internet,220,20320229
+2032-02-29,Variável,Administrativa,Impostos,1998,20320229
+2032-02-29,Fixa,Folha de Pagamento,Salário,3923,20320229
+2032-02-29,Fixa,Folha de Pagamento,FGTS,329,20320229
+2032-02-29,Fixa,Folha de Pagamento,INSS,349,20320229
+2032-02-29,Variável,Operacional,Padaria,818,20320229
+2032-02-29,Variável,Operacional,Mat. Linpeza,207,20320229
+2032-02-29,Variável,Operacional,Manutenção,368,20320229
+2032-02-29,Variável,Folha de Pagamento,Diária,369,20320229
+2032-02-29,Variável,CMV,Mercadoria,307,20320229
+2032-03-31,Fixa,Administrativa,Aluguel,4800,20320331
+2032-03-31,Fixa,Administrativa,Energia,3490,20320331
+2032-03-31,Fixa,Administrativa,Água,531,20320331
+2032-03-31,Fixa,Administrativa,Contabilidade,400,20320331
+2032-03-31,Fixa,Administrativa,Internet,220,20320331
+2032-03-31,Variável,Administrativa,Impostos,1612,20320331
+2032-03-31,Fixa,Folha de Pagamento,Salário,3305,20320331
+2032-03-31,Fixa,Folha de Pagamento,FGTS,356,20320331
+2032-03-31,Fixa,Folha de Pagamento,INSS,399,20320331
+2032-03-31,Variável,Operacional,Padaria,842,20320331
+2032-03-31,Variável,Operacional,Mat. Linpeza,205,20320331
+2032-03-31,Variável,Operacional,Manutenção,407,20320331
+2032-03-31,Variável,Folha de Pagamento,Diária,251,20320331
+2032-03-31,Variável,CMV,Mercadoria,460,20320331
+2032-04-30,Fixa,Administrativa,Aluguel,4800,20320430
+2032-04-30,Fixa,Administrativa,Energia,3334,20320430
+2032-04-30,Fixa,Administrativa,Água,537,20320430
+2032-04-30,Fixa,Administrativa,Contabilidade,400,20320430
+2032-04-30,Fixa,Administrativa,Internet,220,20320430
+2032-04-30,Variável,Administrativa,Impostos,1542,20320430
+2032-04-30,Fixa,Folha de Pagamento,Salário,3508,20320430
+2032-04-30,Fixa,Folha de Pagamento,FGTS,446,20320430
+2032-04-30,Fixa,Folha de Pagamento,INSS,392,20320430
+2032-04-30,Variável,Operacional,Padaria,945,20320430
+2032-04-30,Variável,Operacional,Mat. Linpeza,258,20320430
+2032-04-30,Variável,Operacional,Manutenção,259,20320430
+2032-04-30,Variável,Folha de Pagamento,Diária,301,20320430
+2032-04-30,Variável,CMV,Mercadoria,475,20320430
+2032-05-31,Fixa,Administrativa,Aluguel,4800,20320531
+2032-05-31,Fixa,Administrativa,Energia,3276,20320531
+2032-05-31,Fixa,Administrativa,Água,578,20320531
+2032-05-31,Fixa,Administrativa,Contabilidade,400,20320531
+2032-05-31,Fixa,Administrativa,Internet,220,20320531
+2032-05-31,Variável,Administrativa,Impostos,1920,20320531
+2032-05-31,Fixa,Folha de Pagamento,Salário,3889,20320531
+2032-05-31,Fixa,Folha de Pagamento,FGTS,428,20320531
+2032-05-31,Fixa,Folha de Pagamento,INSS,401,20320531
+2032-05-31,Variável,Operacional,Padaria,882,20320531
+2032-05-31,Variável,Operacional,Mat. Linpeza,259,20320531
+2032-05-31,Variável,Operacional,Manutenção,427,20320531
+2032-05-31,Variável,Folha de Pagamento,Diária,260,20320531
+2032-05-31,Variável,CMV,Mercadoria,414,20320531
+2032-06-30,Fixa,Administrativa,Aluguel,4800,20320630
+2032-06-30,Fixa,Administrativa,Energia,3244,20320630
+2032-06-30,Fixa,Administrativa,Água,576,20320630
+2032-06-30,Fixa,Administrativa,Contabilidade,400,20320630
+2032-06-30,Fixa,Administrativa,Internet,220,20320630
+2032-06-30,Variável,Administrativa,Impostos,1986,20320630
+2032-06-30,Fixa,Folha de Pagamento,Salário,4265,20320630
+2032-06-30,Fixa,Folha de Pagamento,FGTS,338,20320630
+2032-06-30,Fixa,Folha de Pagamento,INSS,430,20320630
+2032-06-30,Variável,Operacional,Padaria,808,20320630
+2032-06-30,Variável,Operacional,Mat. Linpeza,293,20320630
+2032-06-30,Variável,Operacional,Manutenção,480,20320630
+2032-06-30,Variável,Folha de Pagamento,Diária,204,20320630
+2032-06-30,Variável,CMV,Mercadoria,304,20320630
+2032-07-31,Fixa,Administrativa,Aluguel,4800,20320731
+2032-07-31,Fixa,Administrativa,Energia,3429,20320731
+2032-07-31,Fixa,Administrativa,Água,504,20320731
+2032-07-31,Fixa,Administrativa,Contabilidade,400,20320731
+2032-07-31,Fixa,Administrativa,Internet,220,20320731
+2032-07-31,Variável,Administrativa,Impostos,1987,20320731
+2032-07-31,Fixa,Folha de Pagamento,Salário,4157,20320731
+2032-07-31,Fixa,Folha de Pagamento,FGTS,441,20320731
+2032-07-31,Fixa,Folha de Pagamento,INSS,384,20320731
+2032-07-31,Variável,Operacional,Padaria,959,20320731
+2032-07-31,Variável,Operacional,Mat. Linpeza,221,20320731
+2032-07-31,Variável,Operacional,Manutenção,318,20320731
+2032-07-31,Variável,Folha de Pagamento,Diária,461,20320731
+2032-07-31,Variável,CMV,Mercadoria,340,20320731
+2032-08-31,Fixa,Administrativa,Aluguel,4800,20320831
+2032-08-31,Fixa,Administrativa,Energia,3244,20320831
+2032-08-31,Fixa,Administrativa,Água,534,20320831
+2032-08-31,Fixa,Administrativa,Contabilidade,400,20320831
+2032-08-31,Fixa,Administrativa,Internet,220,20320831
+2032-08-31,Variável,Administrativa,Impostos,1864,20320831
+2032-08-31,Fixa,Folha de Pagamento,Salário,4488,20320831
+2032-08-31,Fixa,Folha de Pagamento,FGTS,330,20320831
+2032-08-31,Fixa,Folha de Pagamento,INSS,441,20320831
+2032-08-31,Variável,Operacional,Padaria,840,20320831
+2032-08-31,Variável,Operacional,Mat. Linpeza,242,20320831
+2032-08-31,Variável,Operacional,Manutenção,365,20320831
+2032-08-31,Variável,Folha de Pagamento,Diária,358,20320831
+2032-08-31,Variável,CMV,Mercadoria,406,20320831
+2032-09-30,Fixa,Administrativa,Aluguel,4800,20320930
+2032-09-30,Fixa,Administrativa,Energia,3337,20320930
+2032-09-30,Fixa,Administrativa,Água,585,20320930
+2032-09-30,Fixa,Administrativa,Contabilidade,400,20320930
+2032-09-30,Fixa,Administrativa,Internet,220,20320930
+2032-09-30,Variável,Administrativa,Impostos,1708,20320930
+2032-09-30,Fixa,Folha de Pagamento,Salário,3971,20320930
+2032-09-30,Fixa,Folha de Pagamento,FGTS,351,20320930
+2032-09-30,Fixa,Folha de Pagamento,INSS,335,20320930
+2032-09-30,Variável,Operacional,Padaria,809,20320930
+2032-09-30,Variável,Operacional,Mat. Linpeza,257,20320930
+2032-09-30,Variável,Operacional,Manutenção,268,20320930
+2032-09-30,Variável,Folha de Pagamento,Diária,249,20320930
+2032-09-30,Variável,CMV,Mercadoria,392,20320930
+2032-10-31,Fixa,Administrativa,Aluguel,4800,20321031
+2032-10-31,Fixa,Administrativa,Energia,3349,20321031
+2032-10-31,Fixa,Administrativa,Água,543,20321031
+2032-10-31,Fixa,Administrativa,Contabilidade,400,20321031
+2032-10-31,Fixa,Administrativa,Internet,220,20321031
+2032-10-31,Variável,Administrativa,Impostos,1835,20321031
+2032-10-31,Fixa,Folha de Pagamento,Salário,3296,20321031
+2032-10-31,Fixa,Folha de Pagamento,FGTS,399,20321031
+2032-10-31,Fixa,Folha de Pagamento,INSS,347,20321031
+2032-10-31,Variável,Operacional,Padaria,812,20321031
+2032-10-31,Variável,Operacional,Mat. Linpeza,220,20321031
+2032-10-31,Variável,Operacional,Manutenção,462,20321031
+2032-10-31,Variável,Folha de Pagamento,Diária,461,20321031
+2032-10-31,Variável,CMV,Mercadoria,448,20321031
+2032-11-30,Fixa,Administrativa,Aluguel,4800,20321130
+2032-11-30,Fixa,Administrativa,Energia,3437,20321130
+2032-11-30,Fixa,Administrativa,Água,505,20321130
+2032-11-30,Fixa,Administrativa,Contabilidade,400,20321130
+2032-11-30,Fixa,Administrativa,Internet,220,20321130
+2032-11-30,Variável,Administrativa,Impostos,1895,20321130
+2032-11-30,Fixa,Folha de Pagamento,Salário,4495,20321130
+2032-11-30,Fixa,Folha de Pagamento,FGTS,376,20321130
+2032-11-30,Fixa,Folha de Pagamento,INSS,387,20321130
+2032-11-30,Variável,Operacional,Padaria,960,20321130
+2032-11-30,Variável,Operacional,Mat. Linpeza,285,20321130
+2032-11-30,Variável,Operacional,Manutenção,415,20321130
+2032-11-30,Variável,Folha de Pagamento,Diária,490,20321130
+2032-11-30,Variável,CMV,Mercadoria,343,20321130
+2032-12-31,Fixa,Administrativa,Aluguel,4800,20321231
+2032-12-31,Fixa,Administrativa,Energia,3463,20321231
+2032-12-31,Fixa,Administrativa,Água,585,20321231
+2032-12-31,Fixa,Administrativa,Contabilidade,400,20321231
+2032-12-31,Fixa,Administrativa,Internet,220,20321231
+2032-12-31,Variável,Administrativa,Impostos,1607,20321231
+2032-12-31,Fixa,Folha de Pagamento,Salário,3546,20321231
+2032-12-31,Fixa,Folha de Pagamento,FGTS,407,20321231
+2032-12-31,Fixa,Folha de Pagamento,INSS,413,20321231
+2032-12-31,Variável,Operacional,Padaria,880,20321231
+2032-12-31,Variável,Operacional,Mat. Linpeza,270,20321231
+2032-12-31,Variável,Operacional,Manutenção,258,20321231
+2032-12-31,Variável,Folha de Pagamento,Diária,231,20321231
+2032-12-31,Variável,CMV,Mercadoria,354,20321231

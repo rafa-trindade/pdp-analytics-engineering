@@ -1,0 +1,42 @@
+version: 2
+
+seeds:
+  - name: dim_data
+    columns:
+      - name: chave_data
+        data_type: integer
+      - name: data
+        data_type: date
+      - name: ano
+        data_type: integer
+      - name: mes
+        data_type: integer
+      - name: dia
+        data_type: integer
+      - name: nome_dia_semana
+        data_type: text
+      - name: fim_de_semana
+        data_type: boolean
+      - name: trimestre
+        data_type: integer
+      - name: alta_temporada
+        data_type: boolean
+      - name: feriado
+        data_type: boolean
+      - name: nome_feriado
+        data_type: text
+
+  - name: dim_despesas
+    columns:
+      - name: data_key
+        data_type: integer
+      - name: data
+        data_type: date
+      - name: categoria
+        data_type: text
+      - name: tipo
+        data_type: text
+      - name: descricao
+        data_type: text
+      - name: valor
+        data_type: numeric

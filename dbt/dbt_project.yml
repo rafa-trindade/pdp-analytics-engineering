@@ -1,0 +1,50 @@
+name: 'pdp_dw_powerbi'
+version: '1.0'
+config-version: 2
+
+profile: 'default'
+
+model-paths: ["models"]
+analysis-paths: ["analysis"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+
+target-path: "target"
+clean-targets:
+  - "target"
+  - "dbt_modules"
+
+models:
+  pdp_dw_powerbi:
+    +materialized: view
+
+    staging:
+      +schema: staging        
+      +materialized: view    
+
+    core:
+      +schema: core          
+      +materialized: table    
+
+    marts:
+      +enabled: true      
+      +schema: marts          
+      +materialized: view    
+
+seeds:
+  pdp_dw_powerbi:
+    dim_data:
+      +schema: core
+      +materialized: seed
+    
+    dim_despesas:
+      +schema: core
+      +materialized: seed
+      +column_types:
+        chave_data: integer
+        data: date
+        valor: numeric
+
+tests:
+  +schema: tests

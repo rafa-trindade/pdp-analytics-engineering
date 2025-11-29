@@ -1,0 +1,167 @@
+version: 2
+
+models:
+  - name: dim_cliente
+    +schema: test_core
+    columns:
+      - name: cliente_id
+        tests:
+          - not_null
+          - unique
+      - name: cliente_nome
+        tests:
+          - not_null
+      - name: empresa_id
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                  to: ref('dim_empresa')
+                  field: empresa_id
+
+  - name: dim_empresa
+    +schema: test_core
+    columns:
+      - name: empresa_id
+        tests:
+          - not_null
+          - unique
+      - name: empresa_nome
+        tests:
+          - not_null
+
+  - name: dim_hospedagem
+    +schema: test_core
+    columns:
+      - name: hospedagem_id
+        tests:
+          - not_null
+          - unique
+      - name: cliente_id
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_cliente')
+                field: cliente_id
+      - name: data_entrada
+        tests:
+          - not_null
+      - name: data_saida
+        tests:
+          - not_null
+      - name: hospedagem_valor
+        tests:
+          - not_null
+
+  - name: dim_produto
+    +schema: test_core
+    columns:
+      - name: produto_id
+        tests:
+          - not_null
+          - unique
+      - name: produto_nome
+        tests:
+          - not_null
+
+  - name: dim_consumacao
+    +schema: test_core
+    columns:
+      - name: consumacao_id
+        tests:
+          - not_null
+          - unique
+      - name: hospedagem_id
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_hospedagem')
+                field: hospedagem_id
+      - name: produto_id
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                    to: ref('dim_produto')
+                    field: produto_id
+      - name: quantidade_produto
+        tests:
+          - not_null
+      - name: valor_produto
+        tests:
+          - not_null
+      - name: valor_consumacao
+        tests:
+          - not_null
+      - name: data_consumacao
+        tests:
+          - not_null
+
+  - name: fact_hospedagem
+    +schema: test_core
+    columns:
+      - name: hospedagem_id
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_hospedagem')
+                field: hospedagem_id
+      - name: cliente_id
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_cliente')
+                field: cliente_id
+      - name: valor_total
+        tests:
+          - not_null
+      - name: hospedagem_valor
+        tests:
+          - not_null
+      - name: total_consumo
+        tests:
+          - not_null
+      - name: data_hospedagem_key
+        tests:
+          - not_null
+
+  - name: fact_consumo
+    +schema: test_core
+    columns:
+      - name: consumacao_id
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_consumacao')
+                field: consumacao_id
+      - name: cliente_id
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_cliente')
+                field: cliente_id
+      - name: produto_id
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_produto')
+                field: produto_id
+      - name: quantidade_produto
+        tests:
+          - not_null
+      - name: valor_produto
+        tests:
+          - not_null
+      - name: valor_consumacao
+        tests:
+          - not_null
+      - name: data_consumacao_key
+        tests:
+          - not_null

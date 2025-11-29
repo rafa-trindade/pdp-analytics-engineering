@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: staging
+    schema: dw_staging
+    tables:
+      - name: stg_cliente
+      - name: stg_empresa
+      - name: stg_hospedagem
+      - name: stg_produto
+      - name: stg_consumacao
+      - name: stg_apartamento

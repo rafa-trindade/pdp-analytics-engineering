@@ -1,0 +1,16 @@
+version: 2
+
+sources:
+  - name: core
+    schema: dw_core
+    tables:
+      - name: dim_apartamento
+      - name: dim_cliente
+      - name: dim_consumacao
+      - name: dim_empresa
+      - name: dim_hospedagem
+      - name: dim_produto
+      - name: dim_data
+      - name: dim_despesas
+      - name: fact_consumo
+      - name: fact_hospedagem

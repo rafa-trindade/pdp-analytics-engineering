@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: raw
+    schema: raw
+    tables:
+      - name: clscliente
+      - name: clsempresa
+      - name: clshospedagem
+      - name: clsproduto
+      - name: clsconsumacao
+      - name: clsapartamento
