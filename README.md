@@ -18,7 +18,7 @@ O **Airflow** é responsável pela orquestração dos pipelines de extração, c
 - ✅ Modelagem de tabelas analíticas a partir das **tabelas fato e dimensão** utilizando o DBT na camada **mart**.  
 - ✅ **Dataviz:** Exemplo de consumo dos modelos analíticos no **Power BI** com criação de dashboards e relaórios.  
 
-![projeto-pdp-analytics-engineering](https://i.postimg.cc/8z3CYGt1/projeto-v8.png)
+![projeto-pdp-analytics-engineering](docs/projeto-v8.png)
 
 ___
 
@@ -99,7 +99,7 @@ Resumo diário das receitas de hospedagens, com observações sobre feriados e f
 ## `pdp_dw_powerbi.pbix`
 
  <!--![powerbi](https://i.postimg.cc/B6dHfys4/pdp-dw-powerbi.png) -->
-![powerbi](https://i.postimg.cc/mDc7LbJq/pdp-dw-powerbi-v2.png)
+![powerbi](docs/pbi.png)
 
 
 ---
@@ -107,12 +107,12 @@ Resumo diário das receitas de hospedagens, com observações sobre feriados e f
 ## 🧩 Modelagem:
 
 ## `modelo_olap`
-![Diagrama OLAP](https://i.postimg.cc/25bxpzYF/olap-model-v3.png)
+![Diagrama OLAP](docs/olap-model-v3.png)
 
 ## 💻 Origem dos Dados Transacionais:
 
 ## `pdp-hospedagem` [[link]](https://github.com/rafa-trindade/pdp-hospedagem)
-![Diagrama OLTP](https://i.postimg.cc/ZnRRgqtB/oltp-model-v4.png)
+![Diagrama OLTP](docs/oltp-model-v4.png)
 
 ---
 
